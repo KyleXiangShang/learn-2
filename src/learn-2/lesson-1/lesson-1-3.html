@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>函数接收参数并弹出</title>
+  <style>
+    body{font:12px/1.5 Tahoma;text-align:center;}
+    code,input,button{font-family:inherit;}
+    input{border:1px solid #ccc;padding:3px;}
+    button{cursor:pointer;}
+  </style>
+  <script>
+    //创建一个输出函数
+    var myFn =  function(a,b){
+         alert(a.value);
+        alert(b.value)
+    };
+    window.onload = function(){
+      //获取input标签
+      var oInput = document.getElementsByTagName("input");
+      //获取第一个button标签
+      var oBtn = document.getElementsByTagName("button")[0];
+      //绑定点击事件
+      oBtn.onclick = function(){
+        myFn(oInput[0],oInput[1])
+      }
+    };
+
+  </script>
+</head>
+<body>
+<p><input type="text" value="天津市" /></p>
+<p><input type="text" value="河东区" /></p>
+<p><button>传参</button></p>
+</body>
+</html>
