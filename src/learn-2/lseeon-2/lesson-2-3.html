@@ -13,16 +13,17 @@
     window.onload = function ()
     {
       var oBtn = document.getElementsByTagName("button")[0];
-      var oInput = document.getElementsByTagName("input")[0]
+      var oInput = document.getElementsByTagName("input")[0];
       var oStrong = document.getElementsByTagName("strong")[0];
       oInput.onkeyup = function ()
       {
+        //正则表达式  验证输入的是不是数字或者 ，
         this.value = this.value.replace(/[^(\d)|(,)]/,"")
       };
       oBtn.onclick = function ()
       {
         var sum = 0;
-        var oInput = document.getElementsByTagName("input")[0].value.split(",");
+        var oInput = document.getElementsByTagName("input")[0].value.split(",");//split（）把一个字符串分割成字符串数组
         for (var i in oInput)
         {
           sum += parseInt(oInput[i])

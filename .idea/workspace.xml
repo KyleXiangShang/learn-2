@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecba5ca4-0641-4bd4-b296-9628b3417d12" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-3.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,7 +22,7 @@
       <file leaf-file-name="lesson-1-1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
+            <state>
               <caret line="33" column="69" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -29,86 +31,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lesson-1-2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-2.html">
+      <file leaf-file-name="lesson-2-3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+            <state relative-caret-position="414">
+              <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lesson-1-3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-3.html">
+      <file leaf-file-name="lesson-2-4.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lesson-1-4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="89" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lesson-1-5.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-5.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lesson-1-6.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-6.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lesson-2-1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lesson-2-2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="-418">
+              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
               <folding>
-                <element signature="n#style#0;n#strong#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lesson-2-3.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-3.html">
+      <file leaf-file-name="lesson-2-5.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="black.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/black.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="-88">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -143,6 +91,8 @@
         <option value="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-1.html" />
         <option value="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-2.html" />
         <option value="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-3.html" />
+        <option value="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-4.html" />
+        <option value="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-5.html" />
       </list>
     </option>
   </component>
@@ -165,7 +115,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-5" />
+    <option name="x" value="-6" />
     <option name="width" value="871" />
     <option name="height" value="775" />
   </component>
@@ -174,6 +124,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,7 +154,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,12 +176,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.lesson-2-2.html">
-    <configuration name="lesson-1-4.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lesson-1/lesson-1-4.html" />
-    <configuration name="lesson-1-5.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lesson-1/lesson-1-5.html" />
+  <component name="RunManager" selected="JavaScript Debug.lesson-2-5.html">
     <configuration name="lesson-1-6.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lesson-1/lesson-1-6.html" />
     <configuration name="lesson-2-1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lseeon-2/lesson-2-1.html" />
     <configuration name="lesson-2-2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lseeon-2/lesson-2-2.html" />
+    <configuration name="lesson-2-4.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lseeon-2/lesson-2-4.html" />
+    <configuration name="lesson-2-5.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lseeon-2/lesson-2-5.html" />
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -241,19 +191,19 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.lesson-1-4.html" />
-      <item itemvalue="JavaScript Debug.lesson-1-5.html" />
       <item itemvalue="JavaScript Debug.lesson-1-6.html" />
       <item itemvalue="JavaScript Debug.lesson-2-1.html" />
       <item itemvalue="JavaScript Debug.lesson-2-2.html" />
+      <item itemvalue="JavaScript Debug.lesson-2-4.html" />
+      <item itemvalue="JavaScript Debug.lesson-2-5.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.lesson-2-5.html" />
+        <item itemvalue="JavaScript Debug.lesson-2-4.html" />
         <item itemvalue="JavaScript Debug.lesson-2-2.html" />
         <item itemvalue="JavaScript Debug.lesson-2-1.html" />
         <item itemvalue="JavaScript Debug.lesson-1-6.html" />
-        <item itemvalue="JavaScript Debug.lesson-1-5.html" />
-        <item itemvalue="JavaScript Debug.lesson-1-4.html" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +220,8 @@
       <workItem from="1584279747807" duration="4366000" />
       <workItem from="1584372303255" duration="2764000" />
       <workItem from="1584451592362" duration="8506000" />
-      <workItem from="1584536345286" duration="6728000" />
+      <workItem from="1584536345286" duration="6789000" />
+      <workItem from="1584624223067" duration="8880000" />
     </task>
     <task id="LOCAL-00001" summary="例子-1">
       <created>1584374950750</created>
@@ -300,11 +251,18 @@
       <option name="project" value="LOCAL" />
       <updated>1584542362043</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&#10;          第二课 例子-1-3">
+      <created>1584544189647</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584544189647</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22364000" />
+    <option name="totallyTimeSpent" value="31305000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -320,7 +278,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Gulp" order="2" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20238096" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11904762" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32857144" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -332,10 +290,10 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
@@ -377,9 +335,86 @@
     <MESSAGE value="例子-2" />
     <MESSAGE value="例子-3-4" />
     <MESSAGE value="例子-5-6&#10;第二课 例子-1-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="例子-5-6&#10;第二课 例子-1-2" />
+    <MESSAGE value="&#10;          第二课 例子-1-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;          第二课 例子-1-3" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="69" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="89" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#strong#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/black.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.github/SUPPORT.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -558,7 +593,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
+        <state>
           <caret line="33" column="69" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -596,22 +631,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state relative-caret-position="396">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
+        <state relative-caret-position="572">
           <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        <state relative-caret-position="330">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#strong#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -620,8 +655,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="414">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="503" column="12" selection-start-line="503" selection-start-column="12" selection-end-line="503" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
         </state>
       </provider>
     </entry>
