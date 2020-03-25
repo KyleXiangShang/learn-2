@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecba5ca4-0641-4bd4-b296-9628b3417d12" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-11.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-10.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,17 +33,26 @@
       <file leaf-file-name="lesson-2-8.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-8.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="1672">
               <caret line="76" column="46" selection-start-line="76" selection-start-column="46" selection-end-line="76" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lesson-2-10.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lesson-2-10.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-10.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-57">
-              <caret line="30" column="50" lean-forward="true" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+            <state relative-caret-position="22">
+              <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson-2-11.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-11.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="29" column="68" lean-forward="true" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -84,6 +94,7 @@
         <option value="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-8.html" />
         <option value="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-9.html" />
         <option value="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-10.html" />
+        <option value="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-11.html" />
       </list>
     </option>
   </component>
@@ -116,6 +127,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,6 +139,12 @@
               <item name="learn-2" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn-2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learn-2" type="b2602c69:ProjectViewProjectNode" />
@@ -145,7 +163,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,6 +175,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebstormProjects\learn-2\src\js" />
       <recent name="D:\WebstormProjects\learn-2\src\learn-2\lseeon-2\img" />
     </key>
   </component>
@@ -173,9 +191,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.lesson-2-11.html">
     <configuration name="lesson-2-10.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lseeon-2/lesson-2-10.html" />
-    <configuration name="lesson-2-5.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lseeon-2/lesson-2-5.html" />
+    <configuration name="lesson-2-11.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lseeon-2/lesson-2-11.html" />
     <configuration name="lesson-2-6.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lseeon-2/lesson-2-6.html" />
     <configuration name="lesson-2-7.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lseeon-2/lesson-2-7.html" />
     <configuration name="lesson-2-8.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lseeon-2/lesson-2-8.html" />
@@ -188,19 +206,19 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.lesson-2-5.html" />
       <item itemvalue="JavaScript Debug.lesson-2-6.html" />
       <item itemvalue="JavaScript Debug.lesson-2-7.html" />
       <item itemvalue="JavaScript Debug.lesson-2-8.html" />
       <item itemvalue="JavaScript Debug.lesson-2-10.html" />
+      <item itemvalue="JavaScript Debug.lesson-2-11.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.lesson-2-11.html" />
         <item itemvalue="JavaScript Debug.lesson-2-10.html" />
         <item itemvalue="JavaScript Debug.lesson-2-8.html" />
         <item itemvalue="JavaScript Debug.lesson-2-7.html" />
         <item itemvalue="JavaScript Debug.lesson-2-6.html" />
-        <item itemvalue="JavaScript Debug.lesson-2-5.html" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +240,8 @@
       <workItem from="1584716748114" duration="724000" />
       <workItem from="1584881872819" duration="5931000" />
       <workItem from="1584970576892" duration="7296000" />
-      <workItem from="1585052856820" duration="5757000" />
+      <workItem from="1585052856820" duration="5803000" />
+      <workItem from="1585142354016" duration="3357000" />
     </task>
     <task id="LOCAL-00001" summary="例子-1">
       <created>1584374950750</created>
@@ -294,11 +313,18 @@
       <option name="project" value="LOCAL" />
       <updated>1584979025006</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="例子-2-10">
+      <created>1585065823664</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585065823665</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51084000" />
+    <option name="totallyTimeSpent" value="54487000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -311,7 +337,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15997024" />
@@ -377,7 +402,8 @@
     <MESSAGE value="例子-2-7" />
     <MESSAGE value="例子-2-8" />
     <MESSAGE value="例子-2-9" />
-    <option name="LAST_COMMIT_MESSAGE" value="例子-2-9" />
+    <MESSAGE value="例子-2-10" />
+    <option name="LAST_COMMIT_MESSAGE" value="例子-2-10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -385,20 +411,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="89" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -718,15 +730,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="1672">
           <caret line="76" column="46" selection-start-line="76" selection-start-column="46" selection-end-line="76" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-10.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="30" column="50" lean-forward="true" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+        <state relative-caret-position="22">
+          <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/jquery-3.4.1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="29" column="68" lean-forward="true" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
         </state>
       </provider>
     </entry>
