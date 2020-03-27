@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecba5ca4-0641-4bd4-b296-9628b3417d12" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/jquery-3.4.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-11.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-11.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,7 +41,7 @@
       <file leaf-file-name="lesson-2-10.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-10.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
+            <state relative-caret-position="660">
               <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
             </state>
           </provider>
@@ -51,8 +50,8 @@
       <file leaf-file-name="lesson-2-11.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-11.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="29" column="68" lean-forward="true" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
+            <state relative-caret-position="154">
+              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -117,10 +116,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="356" />
-    <option name="y" value="15" />
+    <option name="x" value="491" />
     <option name="width" value="871" />
-    <option name="height" value="717" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -241,7 +239,8 @@
       <workItem from="1584881872819" duration="5931000" />
       <workItem from="1584970576892" duration="7296000" />
       <workItem from="1585052856820" duration="5803000" />
-      <workItem from="1585142354016" duration="3357000" />
+      <workItem from="1585142354016" duration="3510000" />
+      <workItem from="1585319410605" duration="3232000" />
     </task>
     <task id="LOCAL-00001" summary="例子-1">
       <created>1584374950750</created>
@@ -320,11 +319,18 @@
       <option name="project" value="LOCAL" />
       <updated>1585065823665</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="例子-2-12">
+      <created>1585147088491</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1585147088492</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54487000" />
+    <option name="totallyTimeSpent" value="57872000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -337,6 +343,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15997024" />
@@ -344,18 +351,18 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.18095239" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32857144" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -403,7 +410,8 @@
     <MESSAGE value="例子-2-8" />
     <MESSAGE value="例子-2-9" />
     <MESSAGE value="例子-2-10" />
-    <option name="LAST_COMMIT_MESSAGE" value="例子-2-10" />
+    <MESSAGE value="例子-2-12" />
+    <option name="LAST_COMMIT_MESSAGE" value="例子-2-12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -737,7 +745,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-10.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
+        <state relative-caret-position="660">
           <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
         </state>
       </provider>
@@ -747,8 +755,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/learn-2/lseeon-2/lesson-2-11.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="29" column="68" lean-forward="true" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
+        <state relative-caret-position="154">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
         </state>
       </provider>
     </entry>
