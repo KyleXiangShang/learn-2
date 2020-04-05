@@ -21,12 +21,13 @@
       {
         var oDate = new Date();
         var aDate = [oDate.getHours(), oDate.getMinutes(), oDate.getSeconds()];
-        for (var i in aDate) aSpan[i].innerHTML = format(aDate[i])
+        for (var i in  aDate) aSpan[i].innerHTML = aDate[i]
+        // for (var i in aDate) aSpan[i].innerHTML = format(aDate[i])//format是py中格式化函数？？？？
       }
-      function format(a)
-      {
-        return a.toString().replace(/^(\d)$/, "0$1")
-      }
+      // function format(a)
+      // {
+      //   return a.toString().replace(/^(\d)$/, "0$1")
+      // }
     }
   </script>
 </head>
