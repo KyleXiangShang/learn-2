@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecba5ca4-0641-4bd4-b296-9628b3417d12" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/learn-2/lesson-3/lesson-3-9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -34,15 +35,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lesson-3-5.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-3/lesson-3-5.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="lesson-3-6.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-3/lesson-3-6.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -52,11 +44,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lesson-3-7.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lesson-3-7.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-3/lesson-3-7.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="-242">
               <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson-3-9.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-3/lesson-3-9.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson-3-8.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-3/lesson-3-8.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="24" column="90" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="90" />
             </state>
           </provider>
         </entry>
@@ -106,6 +116,8 @@
         <option value="$PROJECT_DIR$/src/learn-2/lesson-3/lesson-3-5.html" />
         <option value="$PROJECT_DIR$/src/learn-2/lesson-3/lesson-3-6.html" />
         <option value="$PROJECT_DIR$/src/learn-2/lesson-3/lesson-3-7.html" />
+        <option value="$PROJECT_DIR$/src/learn-2/lesson-3/lesson-3-8.html" />
+        <option value="$PROJECT_DIR$/src/learn-2/lesson-3/lesson-3-9.html" />
       </list>
     </option>
   </component>
@@ -164,14 +176,6 @@
               <item name="learn-2" type="462c0819:PsiDirectoryNode" />
               <item name="lesson-3" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="learn-2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-2" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson-3" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -205,12 +209,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.lesson-3-7.html">
-    <configuration name="lesson-3-3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lesson-3/lesson-3-3.html" />
-    <configuration name="lesson-3-4.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lesson-3/lesson-3-4.html" />
+  <component name="RunManager" selected="JavaScript Debug.lesson-3-9.html">
     <configuration name="lesson-3-5.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lesson-3/lesson-3-5.html" />
     <configuration name="lesson-3-6.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lesson-3/lesson-3-6.html" />
     <configuration name="lesson-3-7.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lesson-3/lesson-3-7.html" />
+    <configuration name="lesson-3-8.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lesson-3/lesson-3-8.html" />
+    <configuration name="lesson-3-9.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-2/src/learn-2/lesson-3/lesson-3-9.html" />
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -220,19 +224,19 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.lesson-3-3.html" />
-      <item itemvalue="JavaScript Debug.lesson-3-4.html" />
       <item itemvalue="JavaScript Debug.lesson-3-5.html" />
       <item itemvalue="JavaScript Debug.lesson-3-6.html" />
       <item itemvalue="JavaScript Debug.lesson-3-7.html" />
+      <item itemvalue="JavaScript Debug.lesson-3-8.html" />
+      <item itemvalue="JavaScript Debug.lesson-3-9.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.lesson-3-9.html" />
+        <item itemvalue="JavaScript Debug.lesson-3-8.html" />
         <item itemvalue="JavaScript Debug.lesson-3-7.html" />
         <item itemvalue="JavaScript Debug.lesson-3-6.html" />
         <item itemvalue="JavaScript Debug.lesson-3-5.html" />
-        <item itemvalue="JavaScript Debug.lesson-3-4.html" />
-        <item itemvalue="JavaScript Debug.lesson-3-3.html" />
       </list>
     </recent_temporary>
   </component>
@@ -265,6 +269,8 @@
       <workItem from="1585839785890" duration="1803000" />
       <workItem from="1585977249809" duration="1516000" />
       <workItem from="1586000988153" duration="2251000" />
+      <workItem from="1586101454710" duration="1525000" />
+      <workItem from="1586141864545" duration="2495000" />
     </task>
     <task id="LOCAL-00001" summary="例子-1">
       <created>1584374950750</created>
@@ -406,11 +412,25 @@
       <option name="project" value="LOCAL" />
       <updated>1586010078941</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="例子-3-8">
+      <created>1586101530915</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1586101530915</updated>
+    </task>
+    <task id="LOCAL-00022" summary="例子-3-8">
+      <created>1586102373446</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1586102373446</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72220000" />
+    <option name="totallyTimeSpent" value="76240000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -423,9 +443,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" order="2" sideWeight="0.501182" side_tool="true" weight="0.22991072" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4964539" visible="true" weight="0.100446425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4964539" visible="true" weight="0.18675596" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32857144" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -433,7 +454,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" sideWeight="0.5035461" side_tool="true" weight="0.22991072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.12222222" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.12063492" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -496,7 +517,8 @@
     <MESSAGE value="例子-3-5" />
     <MESSAGE value="例子-3-6" />
     <MESSAGE value="例子-3-7" />
-    <option name="LAST_COMMIT_MESSAGE" value="例子-3-7" />
+    <MESSAGE value="例子-3-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="例子-3-8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -504,16 +526,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dist/LICENSE.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="69" lean-forward="true" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-1/lesson-1-2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
@@ -834,10 +846,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-3/lesson-3-8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="24" column="90" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-3/lesson-3-7.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-242">
           <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn-2/lesson-3/lesson-3-9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>
